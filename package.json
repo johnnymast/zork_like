@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Johnny Mast",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnymast/zork_like.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnnymast/zork_like/issues"
+  },
+  "homepage": "https://github.com/johnnymast/zork_like#readme"
 }
